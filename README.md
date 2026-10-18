@@ -1,0 +1,2 @@
+# Homeassistent-waveshare-esp32-s3-touch-lcd-7
+Homeassistent to waveshare-esp32-s3-touch-lcd-7
